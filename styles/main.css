@@ -43,4 +43,8 @@ a {
     max-width: 540px;
   }
 }
+
+.borders {
+  border-bottom: 1px solid #dedede;
+}
 /*# sourceMappingURL=main.css.map */
